@@ -1,0 +1,16 @@
+{
+  "firstName":"Jack",
+  "lastName":"Woods",
+  "email":"jackwoods@gmail.com",
+  "gender":"Male",
+  "phoneNumber":"123456789",
+  "month": "February",
+  "year": "1930",
+  "day": "28",
+  "subject": "Economics",
+  "hobby": "Music",
+  "file": "test.jpg",
+  "currentAddress": "Mandvi Galli, Versova, Andheri",
+  "state": "NCR",
+  "city": "Delhi"
+}
